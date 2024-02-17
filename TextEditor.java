@@ -152,6 +152,6 @@ public class TextEditor implements ActionListener {
         }
     }
     public static void main(String[] args) {
-        TextEditor textEditor=new TextEditor();
+       TextEditor textEditor=new TextEditor();
     }
 }
